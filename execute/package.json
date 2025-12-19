@@ -11,7 +11,7 @@
   "dependencies": {
     "@flashbots/ethers-provider-bundle": "^0.6.1",
     "dotenv": "^16.0.3",
-    "ethers": "^5.7.2",
+    "ethers": "^5.8.0",
     "eventsource": "^2.0.2",
     "mathjs": "^11.8.0",
     "web3-eth-abi": "^1.10.0",
